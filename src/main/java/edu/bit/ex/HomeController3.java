@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 //1번 추가
 //2번 추가
-//3번 추가
 @Controller
 public class HomeController3 {
 	
